@@ -19,4 +19,4 @@ Learn UE5 Fundamentals with Blueprints
 
 | Lessons | Status |
 |---------|--------|
-|3 of 26 | In progress|
+|9 of 26 | In progress|
