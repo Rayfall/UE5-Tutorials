@@ -19,4 +19,10 @@ Learn UE5 Fundamentals with Blueprints
 
 | Lessons | Status |
 |---------|--------|
-|11 of 26 | In progress|
+|26 of 26 | Completed |
+
+## Learned Objectives by the End
+- Blueprint Basics: Nodes, Pins
+- Programming Basics: Variables, Strings, References, Functions
+- Unreal Basics: Maps, Actors, Components, Transforms, Vectors
+- Object-Oriented Basics: Objects/Structs, Classes, Member Functions
