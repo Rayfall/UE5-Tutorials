@@ -20,7 +20,7 @@ Dive further into UE5 with C++
 
 | Lessons | Status |
 |---------|--------|
-| 12 of 32 | In Progress |
+| 30 of 32 | In Progress |
 
 ## Learned Objectives by the End
 - Functions, Variables and Branches in C++
