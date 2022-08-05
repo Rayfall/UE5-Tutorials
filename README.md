@@ -13,6 +13,12 @@ Lessons I have learned:
 - Starting to learn Unreal Engine 5 as I have not played around inside the editor much until now.
 
 ## Section 2: Obstacle Assault
+Create an Obstacle course, much like Fall Guys, to traverse through using a 3rd person character built with C++. 
+
+This tutorial starts the dive into C++.
+
+Lessons I have learned:
+- Just a good refresher on the basics of C++
 
 ## Glossary
 | Term | Definition|
